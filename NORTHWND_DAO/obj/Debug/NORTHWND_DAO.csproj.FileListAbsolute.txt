@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Northwnd\NORTHWND_DAO\bin\Debug\NORTHWND_DAO.dll.config
+C:\Users\Administrator\Desktop\Northwnd\NORTHWND_DAO\bin\Debug\NORTHWND_DAO.dll
+C:\Users\Administrator\Desktop\Northwnd\NORTHWND_DAO\bin\Debug\NORTHWND_DAO.pdb
+C:\Users\Administrator\Desktop\Northwnd\NORTHWND_DAO\obj\Debug\NORTHWND_DAO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Northwnd\NORTHWND_DAO\obj\Debug\NORTHWND_DAO.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Northwnd\NORTHWND_DAO\obj\Debug\NORTHWND_DAO.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Northwnd\NORTHWND_DAO\obj\Debug\NORTHWND_DAO.dll
+C:\Users\Administrator\Desktop\Northwnd\NORTHWND_DAO\obj\Debug\NORTHWND_DAO.pdb
